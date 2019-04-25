@@ -8,7 +8,7 @@ class Calculator {
     }
 
     fun subtract(a: Int, b: Int): Int {
-        return 0
+        return a - b
     }
 
 }
